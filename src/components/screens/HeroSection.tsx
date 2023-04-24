@@ -51,7 +51,7 @@ export default function HeroSection() {
             <p className="mt-6 text-xl leading-8 text-gray-600 lg:text-left text-center">
               Wir informieren die Nutzer unserer App über alle neuen Ereignisse,
               unabhängig davon, ob es sich dabei um die Releases verschiedener
-              Modemarken, neue Musik, neue Filme/Serien oder Events im Nacht-
+              Modemarken, neuer Musik, neuer Filme/Serien oder Events im Nacht-
               und Tag-Leben handelt.
             </p>
             <div className="flex items-center gap-8 mt-5">
