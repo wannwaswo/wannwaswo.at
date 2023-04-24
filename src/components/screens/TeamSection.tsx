@@ -1,5 +1,5 @@
-import FabiImage from "../../assets/WhatsApp Image 2023-04-19 at 19.15.52.jpeg";
-import EmilImage from "../../assets/WhatsApp Image 2023-04-19 at 19.15.52 (1).jpeg";
+import EmilImage from "../../assets/WhatsApp Image 2023-04-19 at 19.15.52.jpeg";
+import FabiImage from "../../assets/WhatsApp Image 2023-04-19 at 19.15.52 (1).jpeg";
 import AlexImage from "../../assets/F95CDAD6-246A-43A1-8AE8-7A10898F7C02_1_102_a.jpeg";
 
 const team = [
